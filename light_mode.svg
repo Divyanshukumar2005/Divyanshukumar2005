@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="540" viewBox="0 0 1150 540">
+<rect width="1150" height="540" fill="#ffffff" rx="10"/>
+<style>.text{font-family:"Courier New",Courier,monospace;font-size:12.5px;fill:#24292f;} .dim{fill:#6e7781;} .hdr{font-family:"Courier New",Courier,monospace;font-size:22px;font-weight:bold;fill:#2ea043;} a{text-decoration:none;} a:hover .text{text-decoration:underline;}</style>
+<defs><clipPath id="avatarClip"><circle cx="260" cy="270" r="230"/></clipPath></defs>
+<image href="icon.png" x="30" y="40" width="460" height="460" clip-path="url(#avatarClip)"/>
+<g transform="translate(540,40)">
+<text x="0" y="16.5" class="hdr" xml:space="preserve">Divyanshu Kumar ───────────────────────────</text>
+<text x="0" y="54.0" class="text" xml:space="preserve">Education: <tspan class="dim">.....</tspan> B.Tech in ECE, Minor in CSE</text>
+<text x="0" y="69.2" class="text" xml:space="preserve">University: <tspan class="dim">....</tspan> Faculty Of Technology, University</text>
+<text x="0" y="84.4" class="text" xml:space="preserve">CGPA: <tspan class="dim">..........</tspan> 7.23 / 10</text>
+<text x="0" y="107.1" class="text" xml:space="preserve"><tspan style="fill:#58a6ff;font-weight:bold;">— Electronics (ECE)</tspan> <tspan class="dim">─────────────────────────────────────────────────────────</tspan></text>
+<text x="0" y="122.3" class="text" xml:space="preserve">Core: <tspan class="dim">........</tspan> Signal Processing, Control Systems, Digital Electronics &amp; CMOS</text>
+<text x="0" y="137.5" class="text" xml:space="preserve">Domains: <tspan class="dim">.......</tspan> Wireless Sensor Networks, IoT, Embedded Systems</text>
+<text x="0" y="152.7" class="text" xml:space="preserve">Tools: <tspan class="dim">........</tspan> Arduino IDE, MATLAB, ANSYS, CST, LTspice, Silvaco, Fusion 360</text>
+<text x="0" y="175.4" class="text" xml:space="preserve"><tspan style="fill:#58a6ff;font-weight:bold;">— Computer Science (CS)</tspan> <tspan class="dim">─────────────────────────────────────────────────────</tspan></text>
+<text x="0" y="190.6" class="text" xml:space="preserve">Core: <tspan class="dim">..........</tspan> Operating Systems, Computer Networks, DBMS (MySQL)</text>
+<text x="0" y="205.8" class="text" xml:space="preserve">Languages: <tspan class="dim">.....</tspan> Java, Python, C</text>
+<text x="0" y="221.0" class="text" xml:space="preserve">Web: <tspan class="dim">...........</tspan> HTML, CSS, JavaScript</text>
+<text x="0" y="236.2" class="text" xml:space="preserve">Tools: <tspan class="dim">.........</tspan> VS Code, Antigravity, Git, Cisco Packet Tracer</text>
+<text x="0" y="251.4" class="text" xml:space="preserve">Cloud: <tspan class="dim">.........</tspan> Cloudflare, Railway, Render</text>
+<text x="0" y="274.1" class="text" xml:space="preserve"><tspan style="fill:#58a6ff;font-weight:bold;">— Experience</tspan> <tspan class="dim">────────────────────────────────────────────────────────────────</tspan></text>
+<text x="0" y="289.3" class="text" xml:space="preserve">GGSIPU Dwarka: <tspan class="dim">...</tspan> Intern</text>
+<text x="0" y="304.5" class="text" xml:space="preserve">Itomata: <tspan class="dim">.......</tspan> Intern</text>
+<text x="0" y="327.2" class="text" xml:space="preserve"><tspan style="fill:#58a6ff;font-weight:bold;">— Certifications</tspan> <tspan class="dim">────────────────────────────────────────────────────────────</tspan></text>
+<text x="0" y="342.4" class="text" xml:space="preserve">Data Science: <tspan class="dim">...</tspan> Code with Harry</text>
+<text x="0" y="365.1" class="text" xml:space="preserve">Languages: <tspan class="dim">.....</tspan> English, Hindi</text>
+<text x="0" y="387.8" class="text" xml:space="preserve"><tspan style="fill:#58a6ff;font-weight:bold;">— Contact</tspan> <tspan class="dim">───────────────────────────────────────────────────────────────────</tspan></text>
+<a href="https://github.com/Divyanshukumar2005" target="_blank"><text x="0" y="403.0" class="text" xml:space="preserve">Portfolio: <tspan class="dim">.....</tspan> coming soon (github.com/Divyanshukumar2005)</text></a>
+<a href="https://github.com/Divyanshukumar2005" target="_blank"><text x="0" y="418.2" class="text" xml:space="preserve">GitHub: <tspan class="dim">........</tspan> github.com/Divyanshukumar2005</text></a>
+<a href="https://www.linkedin.com/in/divyanshu-kumar-7625a8315/" target="_blank"><text x="0" y="433.4" class="text" xml:space="preserve">LinkedIn: <tspan class="dim">......</tspan> linkedin.com/in/divyanshu-kumar-7625a8315</text></a>
+</g>
+</svg>

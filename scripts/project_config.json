@@ -1,0 +1,46 @@
+{
+  "max_projects": 8,
+  "minimum_stars": 1,
+  "blacklist": [],
+  "priority_repositories": [],
+  "excluded_name_patterns": [
+    ".github",
+    "dotfiles",
+    "sandbox",
+    "scratch",
+    "test",
+    "testing",
+    "demo",
+    "playground",
+    "template",
+    "templates"
+  ],
+  "domain_overrides": {
+    "Smart-Irrigation-System": "iot",
+    "Text-Search-Engine": "algorithms",
+    "AI-Security-Guardian": "cybersecurity"
+  },
+  "topic_priority": [
+    "cybersecurity",
+    "security",
+    "network-security",
+    "iot",
+    "embedded",
+    "esp32",
+    "arduino",
+    "blockchain",
+    "backend",
+    "api",
+    "automation",
+    "n8n",
+    "algorithms"
+  ],
+  "card": {
+    "width": 560,
+    "height": 230,
+    "max_description_lines": 3,
+    "max_topics": 2,
+    "show_stars": true,
+    "show_updated_month": true
+  }
+}

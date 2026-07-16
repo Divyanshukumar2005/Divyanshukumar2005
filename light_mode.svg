@@ -2,7 +2,13 @@
 <rect width="1150" height="540" fill="#ffffff" rx="10"/>
 <style>.text{font-family:"Courier New",Courier,monospace;font-size:12.5px;fill:#24292f;} .dim{fill:#6e7781;} .hdr{font-family:"Courier New",Courier,monospace;font-size:22px;font-weight:bold;fill:#2ea043;} a{text-decoration:none;} a:hover .text{text-decoration:underline;}</style>
 <defs><clipPath id="avatarClip"><circle cx="260" cy="270" r="230"/></clipPath></defs>
-<image href="icon.png" x="30" y="40" width="460" height="460" clip-path="url(#avatarClip)"/>
+<image
+  href="https://raw.githubusercontent.com/Divyanshukumar2005/Divyanshukumar2005/main/icon.png"
+  x="30"
+  y="40"
+  width="460"
+  height="460"
+  clip-path="url(#avatarClip)" />
 <g transform="translate(540,40)">
 <text x="0" y="16.5" class="hdr" xml:space="preserve">Divyanshu Kumar ───────────────────────────</text>
 <text x="0" y="54.0" class="text" xml:space="preserve">Education: <tspan class="dim">.....</tspan> B.Tech in ECE, Minor in CSE</text>

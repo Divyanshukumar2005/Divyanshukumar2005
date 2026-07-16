@@ -1,4 +1,4 @@
-# Rishvin Reddy
+# Divyanshu Kumar
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

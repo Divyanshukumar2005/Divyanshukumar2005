@@ -19,9 +19,9 @@
     <line x1="0" y1="15" x2="620" y2="15" stroke="#2B2F3A" stroke-width="1" />
     
     <!-- Title Section -->
-    <text x="0" y="65" font-family="Georgia, serif" font-size="40" font-weight="bold" fill="#FFFFFF" letter-spacing="-0.5">Erolla Rishvin Reddy</text>
-    <text x="0" y="95" font-family="'Times New Roman', Times, serif" font-style="italic" font-size="18" fill="#8B92A5">Computer Science &amp; Engineering · Class of 2028</text>
-    <text x="0" y="120" font-family="'Times New Roman', Times, serif" font-style="italic" font-size="18" fill="#8B92A5">Woxsen University</text>
+    <text x="0" y="65" font-family="Georgia, serif" font-size="40" font-weight="bold" fill="#1A202C" letter-spacing="-0.5">Divyanshu Kumar</text>
+    <text x="0" y="95" font-family="'Times New Roman', Times, serif" font-style="italic" font-size="18" fill="#4A5568">Electronics &amp; Communication Engineering · Batch of 2023-2027</text>
+    <text x="0" y="120" font-family="'Times New Roman', Times, serif" font-style="italic" font-size="18" fill="#4A5568">Faculty Of Technology, University Of Delhi</text>
     
     <!-- Specialization -->
     <text x="0" y="170" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#FFFFFF" letter-spacing="2">SPECIALIZATION</text>

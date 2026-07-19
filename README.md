@@ -250,11 +250,13 @@
 ## ✦ Founder & Builder
 
 <div align="center">
+<a href="https://gignova.netlify.app/" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/gignova_dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="./assets/cards/gignova_light.svg?v=2">
   <img alt="GigNova Digital — Founder and Builder" src="./assets/cards/gignova_dark.svg?v=2" width="100%">
 </picture>
+</a>
 </div>
 <br/>
 

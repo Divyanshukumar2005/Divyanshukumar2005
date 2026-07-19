@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="100%" height="100%">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-opacity="0.04" flood-color="#000000" />
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="880" height="300" fill="#F7F7F8" />
+  <rect x="40" y="20" width="800" height="260" rx="4" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1" filter="url(#shadow)"/>
+  <g transform="translate(40, 20)">
+    <text x="32" y="32" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="600" fill="#2C5282" letter-spacing="2">✦ FOUNDER &amp; BUILDER</text>
+
+    <text x="32" y="72" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#1A202C">GigNova Digital</text>
+    <text x="32" y="96" font-family="'Times New Roman', Times, serif" font-style="italic" font-size="14" fill="#4A5568">Web Design Agency · New Delhi / Gurugram, India</text>
+
+    <rect x="32" y="116" width="140" height="26" rx="2" fill="#EBF8FF" fill-opacity="0.4" stroke="#2C5282" stroke-width="1"/>
+    <text x="102" y="133" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282" text-anchor="middle">FOUNDER</text>
+
+    <text x="32" y="176" font-family="'Times New Roman', Times, serif" font-size="14" fill="#1A202C">Builds fast, premium websites for Indian SMB clients — static</text>
+    <text x="32" y="198" font-family="'Times New Roman', Times, serif" font-size="14" fill="#1A202C">HTML, CSS and JavaScript sites, hosted and deployed end-to-end.</text>
+
+    <text x="32" y="234" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">Website</text><text x="150" y="234" font-family="'Courier New', Courier, monospace" font-size="12" fill="#4A5568">gignova.netlify.app</text>
+    <text x="32" y="254" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">Handle</text><text x="150" y="254" font-family="'Courier New', Courier, monospace" font-size="12" fill="#4A5568">@_gignova_</text>
+  </g>
+</svg>

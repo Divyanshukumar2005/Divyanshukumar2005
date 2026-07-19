@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" width="100%" height="100%">
+  <rect x="0" y="0" width="600" height="170" fill="#0D1117" />
+  <rect x="10" y="10" width="580" height="150" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1.5" />
+  <text x="30" y="46" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#E6EDF3">Prime Compliances</text>
+  <text x="30" y="68" font-family="'Times New Roman', Times, serif" font-style="italic" font-size="13" fill="#8B949E">Freelance Client Website</text>
+  <rect x="30" y="82" width="52" height="20" rx="10" fill="#58A6FF" fill-opacity="0.1" stroke="#58A6FF" stroke-width="1"/>
+  <text x="42" y="96" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#58A6FF">HTML</text>
+  <text x="30" y="128" font-family="'Times New Roman', Times, serif" font-size="13" fill="#8B949E">Responsive business website for a compliance</text>
+  <text x="30" y="146" font-family="'Times New Roman', Times, serif" font-size="13" fill="#8B949E">services company registration client project.</text>
+</svg>

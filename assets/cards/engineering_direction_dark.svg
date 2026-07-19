@@ -35,8 +35,8 @@
         
         <rect x="412" y="200" width="350" height="50" rx="6" fill="#58A6FF" fill-opacity="0.06" stroke="#30363D" stroke-width="1"/>
         <text x="428" y="220" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#58A6FF">06</text>
-        <text x="454" y="220" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#E6EDF3" letter-spacing="1">GROWTH</text>
-        <text x="428" y="240" font-family="'Times New Roman', Times, serif" font-size="11" fill="#8B949E">Production Engineering • Deployment • Open Source • Research</text>
+        <text x="454" y="220" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#E6EDF3" letter-spacing="1">ML</text>
+        <text x="428" y="240" font-family="'Times New Roman', Times, serif" font-size="11" fill="#8B949E">Machine Learning • Model Training • Applied ML Projects</text>
         
   </g>
 </svg>

@@ -10,28 +10,28 @@
     <text x="32" y="32" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="600" fill="#2C5282" letter-spacing="2">✦ ENGINEERING DIRECTION</text>
         <rect x="32" y="70" width="350" height="50" rx="6" fill="#E2E8F0" fill-opacity="0.1" stroke="#E2E8F0" stroke-width="1"/>
         <text x="48" y="90" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">01</text>
-        <text x="74" y="90" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">SECURITY</text>
-        <text x="48" y="110" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Secure Architectures • Network Analysis • Security Automation</text>
+        <text x="74" y="90" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">DATA SCIENCE</text>
+        <text x="48" y="110" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Data Analysis • Predictive Modeling • ML Tools</text>
         
         <rect x="412" y="70" width="350" height="50" rx="6" fill="#E2E8F0" fill-opacity="0.1" stroke="#E2E8F0" stroke-width="1"/>
         <text x="428" y="90" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">02</text>
-        <text x="454" y="90" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">EMBEDDED</text>
-        <text x="428" y="110" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Sensor-Driven IoT • ESP32 Systems • Hardware-Software Integration</text>
+        <text x="454" y="90" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">IOT</text>
+        <text x="428" y="110" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Sensor-Driven Systems • ESP32 • Wireless Sensor Networks</text>
         
         <rect x="32" y="135" width="350" height="50" rx="6" fill="#E2E8F0" fill-opacity="0.1" stroke="#E2E8F0" stroke-width="1"/>
         <text x="48" y="155" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">03</text>
-        <text x="74" y="155" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">BLOCKCHAIN</text>
-        <text x="48" y="175" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Applied Blockchain Engineering • Distributed Systems</text>
+        <text x="74" y="155" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">EMBEDDED SYSTEMS</text>
+        <text x="48" y="175" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Embedded Prototyping • Hardware-Software Integration</text>
         
         <rect x="412" y="135" width="350" height="50" rx="6" fill="#E2E8F0" fill-opacity="0.1" stroke="#E2E8F0" stroke-width="1"/>
         <text x="428" y="155" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">04</text>
-        <text x="454" y="155" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">SOFTWARE</text>
-        <text x="428" y="175" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Backend APIs • Full-Stack Systems • Modular Architecture</text>
+        <text x="454" y="155" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">SDE</text>
+        <text x="428" y="175" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Data Structures &amp; Algorithms • Problem Solving • Java</text>
         
         <rect x="32" y="200" width="350" height="50" rx="6" fill="#E2E8F0" fill-opacity="0.1" stroke="#E2E8F0" stroke-width="1"/>
         <text x="48" y="220" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">05</text>
-        <text x="74" y="220" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">AUTOMATION</text>
-        <text x="48" y="240" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">n8n Workflows • Engineering Automation • AI-Assisted Systems</text>
+        <text x="74" y="220" font-family="'Courier New', Courier, monospace" font-size="13" font-weight="700" fill="#1A202C" letter-spacing="1">SEMICONDUCTOR</text>
+        <text x="48" y="240" font-family="'Times New Roman', Times, serif" font-size="11" fill="#4A5568">Analog &amp; Digital Circuit Design • LTspice • ANSYS • CST</text>
         
         <rect x="412" y="200" width="350" height="50" rx="6" fill="#E2E8F0" fill-opacity="0.1" stroke="#E2E8F0" stroke-width="1"/>
         <text x="428" y="220" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="700" fill="#2C5282">06</text>

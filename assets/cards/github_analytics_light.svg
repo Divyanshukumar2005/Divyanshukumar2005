@@ -1,0 +1,43 @@
+<svg width="900" height="1300" viewBox="0 0 900 1300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer frame -->
+  <rect x="8" y="8" width="884" height="1284" rx="14" fill="#ffffff" stroke="#2C5282" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="40" y="55" font-family="Consolas, Menlo, monospace" font-size="22" font-weight="700"
+        letter-spacing="2" fill="#2C5282">✦ GITHUB ANALYTICS</text>
+  <line x1="40" y1="72" x2="860" y2="72" stroke="#e2e8f0" stroke-width="1"/>
+
+  <!-- Row 1: Stats card + Top Languages -->
+  <rect x="40" y="95" width="410" height="215" rx="10" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <image href="https://github-stats-extended.vercel.app/api?username=Divyanshukumar2005&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;count_private=true&amp;text_color=24292f&amp;title_color=2C5282&amp;icon_color=56B6C2&amp;bg_color=f6f8fa"
+         x="55" y="107" width="380" height="191"/>
+
+  <rect x="465" y="95" width="395" height="215" rx="10" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <image href="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukumar2005&amp;layout=compact&amp;theme=default&amp;hide_border=true&amp;bg_color=f6f8fa&amp;title_color=2C5282&amp;text_color=24292f"
+         x="480" y="107" width="365" height="191"/>
+
+  <!-- Row 2: Streak stats -->
+  <rect x="40" y="330" width="820" height="205" rx="10" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <image href="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshukumar2005&amp;theme=default&amp;hide_border=true&amp;background=F6F8FA&amp;ring=2C5282&amp;fire=56B6C2&amp;currStreakLabel=2C5282"
+         x="55" y="342" width="790" height="181"/>
+
+  <!-- Row 3: WakaTime -->
+  <rect x="40" y="555" width="820" height="205" rx="10" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="60" y="580" font-family="Consolas, Menlo, monospace" font-size="13" fill="#57606a">CODING ACTIVITY — WAKATIME</text>
+  <image href="https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshukumar2005&amp;theme=default&amp;hide_border=true&amp;bg_color=f6f8fa&amp;title_color=2C5282&amp;text_color=24292f"
+         x="55" y="590" width="790" height="155"/>
+
+  <!-- Row 4: Trophies -->
+  <rect x="40" y="780" width="820" height="180" rx="10" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <image href="https://github-profile-trophy-six-tau.vercel.app/?username=Divyanshukumar2005&amp;theme=flat&amp;no-frame=true&amp;margin-w=12&amp;margin-h=12&amp;row=1&amp;column=6"
+         x="55" y="792" width="790" height="156"/>
+
+  <!-- Row 5: Activity graph -->
+  <rect x="40" y="980" width="820" height="300" rx="10" fill="#f6f8fa" stroke="#e2e8f0" stroke-width="1"/>
+  <image href="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshukumar2005&amp;theme=minimal&amp;hide_border=true&amp;bg_color=f6f8fa&amp;color=2C5282&amp;line=56B6C2&amp;point=24292f"
+         x="55" y="992" width="790" height="276"/>
+
+  <text x="40" y="1265" font-family="Consolas, Menlo, monospace" font-size="11" fill="#8c959f">
+    profile analytics · updated automatically
+  </text>
+</svg>

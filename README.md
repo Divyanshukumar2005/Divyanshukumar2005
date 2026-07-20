@@ -187,49 +187,14 @@
 ## ✦ GitHub Analytics
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/views_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/views_light.svg">
-  <img alt="Profile Views" src="./assets/analytics/views_dark.svg" >
-</picture>
+<img src="https://komarev.com/ghpvc/?username=Divyanshukumar2005&color=2C5282&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 <br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/profile_details_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/profile_details_light.svg">
-  <img alt="GitHub Profile Details" src="./assets/analytics/profile_details_dark.svg" width='95%'>
-</picture>
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/stats_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/stats_light.svg">
-  <img alt="GitHub Stats" src="./assets/analytics/stats_dark.svg" height='160'>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/repos_per_language_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/repos_per_language_light.svg">
-  <img alt="Repositories per Language" src="./assets/analytics/repos_per_language_dark.svg" height='160'>
-</picture>
-</p>
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/most_commit_language_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/most_commit_language_light.svg">
-  <img alt="Most Commit Language" src="./assets/analytics/most_commit_language_dark.svg" height='160'>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/productive_time_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/productive_time_light.svg">
-  <img alt="Productive Time" src="./assets/analytics/productive_time_dark.svg" height='160'>
-</picture>
-</p>
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160">
+<br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Divyanshukumar2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
 <br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/analytics/activity_graph_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/analytics/activity_graph_light.svg">
-  <img alt="GitHub Activity Graph" src="./assets/analytics/activity_graph_dark.svg" width='95%'>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshukumar2005&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width='95%'>
 </div>
 
 ⸻

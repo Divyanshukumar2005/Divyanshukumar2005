@@ -192,7 +192,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="160">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160">
 <br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Divyanshukumar2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-six-tau.vercel.app/?username=Divyanshukumar2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshukumar2005&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width='95%'>
 </div>

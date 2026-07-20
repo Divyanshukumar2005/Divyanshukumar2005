@@ -190,11 +190,77 @@
 
 <br/><br/>
 
+<table width="100%" cellpadding="16" cellspacing="0" border="1" style="border-collapse:collapse; border-color:#2C5282;">
+<tr>
+<td align="center" width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/github_analytics_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/github_analytics_light.svg">
-  <img alt="GitHub Analytics" src="./assets/cards/github_analytics_dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=algolia&hide_border=true&count_private=true&text_color=e6edf3&title_color=2C5282&icon_color=56B6C2&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=default&hide_border=true&count_private=true&text_color=24292f&title_color=2C5282&icon_color=56B6C2&bg_color=ffffff">
+  <img src="https://github-stats-extended.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" width="95%">
 </picture>
+</td>
+<td align="center" width="50%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=2C5282&text_color=e6edf3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2C5282&text_color=24292f">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" width="95%">
+</picture>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" cellpadding="16" cellspacing="0" border="1" style="border-collapse:collapse; border-color:#2C5282;">
+<tr>
+<td align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshukumar2005&theme=algolia&hide_border=true&background=0D1117&ring=2C5282&fire=56B6C2&currStreakLabel=56B6C2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshukumar2005&theme=default&hide_border=true&background=FFFFFF&ring=2C5282&fire=56B6C2&currStreakLabel=2C5282">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshukumar2005&theme=algolia&hide_border=true" alt="GitHub Streak Stats" width="97%">
+</picture>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" cellpadding="16" cellspacing="0" border="1" style="border-collapse:collapse; border-color:#2C5282;">
+<tr>
+<td align="center">
+<p><sub><b>CODING ACTIVITY — WAKATIME</b></sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshukumar2005&theme=algolia&hide_border=true&bg_color=0D1117&title_color=2C5282&text_color=e6edf3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshukumar2005&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2C5282&text_color=24292f">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshukumar2005&theme=algolia&hide_border=true" alt="WakaTime Coding Stats" width="97%">
+</picture>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" cellpadding="16" cellspacing="0" border="1" style="border-collapse:collapse; border-color:#2C5282;">
+<tr>
+<td align="center">
+<img src="https://github-profile-trophy-six-tau.vercel.app/?username=Divyanshukumar2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" width="97%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%" cellpadding="16" cellspacing="0" border="1" style="border-collapse:collapse; border-color:#2C5282;">
+<tr>
+<td align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshukumar2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=56B6C2&line=2C5282&point=e6edf3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshukumar2005&theme=minimal&hide_border=true&bg_color=FFFFFF&color=2C5282&line=56B6C2&point=24292f">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshukumar2005&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="97%">
+</picture>
+</td>
+</tr>
+</table>
 
 </div>
 

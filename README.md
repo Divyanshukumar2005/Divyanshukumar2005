@@ -15,8 +15,6 @@
   />
 </picture>
 
-
-
 ⸻
 
 ## ✦ About Me
@@ -187,14 +185,17 @@
 ## ✦ GitHub Analytics
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Divyanshukumar2005&color=2C5282&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=Divyanshukumar2005&color=2C5282&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 <br/><br/>
-<img src="https://github-stats-extended.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="160">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160">
-<br/><br/>
-<img src="https://github-profile-trophy-six-tau.vercel.app/?username=Divyanshukumar2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyanshukumar2005&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width='95%'>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/github_analytics_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/github_analytics_light.svg">
+  <img alt="GitHub Analytics" src="./assets/cards/github_analytics_dark.svg" width="100%">
+</picture>
+
 </div>
 
 ⸻

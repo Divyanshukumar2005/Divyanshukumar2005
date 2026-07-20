@@ -189,8 +189,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Divyanshukumar2005&color=2C5282&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160">
+<img src="https://github-stats-extended.vercel.app/api?username=Divyanshukumar2005&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats" height="160">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Divyanshukumar2005&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" height="160">
 <br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=Divyanshukumar2005&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
 <br/><br/>

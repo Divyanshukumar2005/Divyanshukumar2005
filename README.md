@@ -323,17 +323,35 @@
 ## ✦ Connect
 
 <div align="center">
+
+<a href="https://github.com/Divyanshukumar2005" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/connect_dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/connect_light.svg?v=2">
-  <img alt="Connect with Divyanshu Kumar" src="./assets/cards/connect_dark.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/connect_github_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/connect_github_light.svg">
+  <img alt="GitHub" src="./assets/cards/connect_github_dark.svg" width="100%">
 </picture>
-<br/><br/>
-<p align="center">
-  <a href="https://github.com/Divyanshukumar2005"><img src="https://img.shields.io/badge/GitHub-15171E?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/divyanshu-kumar-7625a8315/"><img src="https://img.shields.io/badge/LinkedIn-2C5282?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:divyanshu.kumar.dev27@gmail.com"><img src="https://img.shields.io/badge/Email-56B6C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/divyanshu-kumar-7625a8315/" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/connect_linkedin_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/connect_linkedin_light.svg">
+  <img alt="LinkedIn" src="./assets/cards/connect_linkedin_dark.svg" width="100%">
+</picture>
+</a>
+
+<br/>
+
+<a href="mailto:divyanshu.kumar.dev27@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/connect_email_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cards/connect_email_light.svg">
+  <img alt="Email" src="./assets/cards/connect_email_dark.svg" width="100%">
+</picture>
+</a>
+
 </div>
 <br/>
 

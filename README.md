@@ -225,18 +225,7 @@
 
 <br/>
 
-<table width="100%" cellpadding="16" cellspacing="0" border="1" style="border-collapse:collapse; border-color:#2C5282;">
-<tr>
-<td align="center">
-<p><sub><b>CODING ACTIVITY — WAKATIME</b></sub></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshukumar2005&theme=algolia&hide_border=true&bg_color=0D1117&title_color=2C5282&text_color=e6edf3">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshukumar2005&theme=default&hide_border=true&bg_color=FFFFFF&title_color=2C5282&text_color=24292f">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Divyanshukumar2005&theme=algolia&hide_border=true" alt="WakaTime Coding Stats" width="97%">
-</picture>
-</td>
-</tr>
-</table>
+
 
 <br/>
 

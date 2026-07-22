@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" width="100%" height="100%">
+  <rect x="0" y="0" width="600" height="170" fill="#FFFFFF" />
+  <rect x="10" y="10" width="580" height="150" rx="6" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5" />
+  <text x="30" y="46" font-family="Georgia, serif" font-size="20" font-weight="bold" fill="#1F2328">Car Detailing Landing Page</text>
+  <text x="30" y="68" font-family="'Times New Roman', Times, serif" font-style="italic" font-size="13" fill="#57606A">Luxury Car &amp; Bike Detailing Studio Website</text>
+  <rect x="30" y="82" width="52" height="20" rx="10" fill="#9A6700" fill-opacity="0.1" stroke="#9A6700" stroke-width="1"/>
+  <text x="42" y="96" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#9A6700">HTML</text>
+  <rect x="88" y="82" width="48" height="20" rx="10" fill="#0969DA" fill-opacity="0.1" stroke="#0969DA" stroke-width="1"/>
+  <text x="99" y="96" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#0969DA">CSS</text>
+  <rect x="142" y="82" width="42" height="20" rx="10" fill="#9A6700" fill-opacity="0.15" stroke="#9A6700" stroke-width="1"/>
+  <text x="151" y="96" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="700" fill="#9A6700">JS</text>
+  <text x="30" y="128" font-family="'Times New Roman', Times, serif" font-size="13" fill="#57606A">Responsive landing page for PPF, ceramic coating &amp;</text>
+  <text x="30" y="146" font-family="'Times New Roman', Times, serif" font-size="13" fill="#57606A">paint correction services, with WhatsApp lead capture.</text>
+</svg>

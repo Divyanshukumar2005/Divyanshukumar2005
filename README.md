@@ -169,9 +169,9 @@
 <td width="50%" valign="top">
 <a href="https://github.com/Divyanshukumar2005/car-detailing-landing-page">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project-car-detailing-landing-page-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project-car-detailing-landing-page-light.svg">
-  <img alt="car-detailing-landing-page - Engineering project" src="./assets/projects/project-car-detailing-landing-page-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/project-car-detailing-card-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects/project-car-detailing-card-light.svg">
+  <img alt="car-detailing-landing-page - Engineering project" src="./assets/projects/project-car-detailing-card-light.svg" width="100%">
 </picture>
 </a>
 </td>
